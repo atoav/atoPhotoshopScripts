@@ -15,3 +15,6 @@ To install the scripts and assign them to an action use these steps:
 
 ###incrementalSavePSD
 This Script allows the user to resave the next iteration of a PSD with one Click. If the document has not been saved before it informs the user to do so.
+
+###incrementalSavePNG
+This Script allows the user to resave the next iteration of a PNG with one Click. If the document has not been saved before it informs the user to do so.
